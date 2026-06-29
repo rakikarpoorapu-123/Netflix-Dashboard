@@ -103,4 +103,4 @@ The dataset contains information about Netflix titles, including:
 
 ---
 
-## ⭐ If you like this project, don't forget to star the repository!
+
